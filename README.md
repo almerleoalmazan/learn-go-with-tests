@@ -21,9 +21,11 @@ To run the application, use the following command:
 
 ```sh
 go run [main.go]
+```
 
 ### Running the Tests
 
 To run the tests, use the following command:
 ```sh
 go test
+```
