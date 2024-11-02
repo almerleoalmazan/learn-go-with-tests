@@ -1,4 +1,4 @@
-package arrays
+package arraysandslices
 
 import "testing"
 
@@ -14,4 +14,5 @@ func TestSum(t *testing.T) {
 			t.Errorf("got %d want %d given, %v", got, want, numbers)
 		}
 	})
+
 }
